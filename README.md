@@ -1,6 +1,6 @@
 # Currency-Converter-App
-Currency Converter App that connected to real time API that check currency change in the world.
-API source: https://exchangerate.host/#/#docs
+# Currency Converter App that connected to real time API that check currency change in the world.
+# API source: https://exchangerate.host/#/#docs
 
 
 <h1> App </h1>
